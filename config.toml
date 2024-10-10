@@ -1,0 +1,10 @@
+glob=""
+pub_key_name=""
+pri_key_name=""
+chunk_limit=64000
+access_key_id=""
+secret_access_key=""
+region=""
+endpoint=""
+bucket=""
+password=""
